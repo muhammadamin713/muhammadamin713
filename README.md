@@ -6,3 +6,5 @@ boarding school. I'm a 3rd year undergraduate CS student. Lately everything has 
 so dull. Programming doesn't feel fun anymore and I was thinking in terms of my career instead
 of aiming to become a good programmer. I was trying to impressed people. SO! I decided
 to relearn programming from the beginning to find joy again in what I used to enjoy.
+
+My main and old account is [here](https://github.com/omokata). Feel free to check it out as well.
